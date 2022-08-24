@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        FactorPrinter.printFactors(55);
+        FactorPrinter.printFactors(44);
     }
 }
